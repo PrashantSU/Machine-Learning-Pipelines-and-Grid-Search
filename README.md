@@ -38,5 +38,5 @@ The project uses the [Fetal Health Classification dataset](https://www.kaggle.co
 
 ---
 
-📌 **Author:** Your Name  
-📌 **Date:** 2025-09-22
+📌 **Author:** Prashant Kumar Singh  
+📌 **Date:** 2025-01-20
